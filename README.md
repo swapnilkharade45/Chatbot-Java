@@ -4,9 +4,9 @@ A simple command-line chatbot that evaluates math expressions.
 
 ## How to Run
 1. Clone the repo:
-   git clone https://github.com/your-username/ChatBot-Java.git
+   git clone https://github.com/swapnilkharade45/Chatbot-Java.git
 2. Open in IntelliJ IDEA.
-3. Run `ChatBot.java`.
+3. Run `Chatbot.java`.
 
 ## Example
 Hey, what's your name? Swapnil
